@@ -1,0 +1,64 @@
+img {
+    width: 100px;
+    padding-top: 10px;
+}
+
+#fcca {
+    width: 400px;
+}
+
+body {
+    text-align: center;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#sezione {
+    color: green;
+    background-color: bisque;
+    border-top: 1px solid #ffff00;
+    padding: 10px;
+}
+
+h1 {
+    margin: auto;
+    width: 50%;
+}
+
+#tag {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 15px;
+}
+
+#set {
+    color: gray
+}
+
+.vet {
+    text-align: left;
+    padding-left: 420px;
+   }
+
+h2 {
+    text-align: left;
+    padding-left: 420px;
+}
+
+.ten {
+    text-align: left;
+    padding-left: 420px;
+    padding-right: 420px;
+}
+
+.four {
+    text-align: left;
+    padding-left: 450px;
+    padding-right: 420px;
+}
+
+#five {
+    padding-left: 420px;
+    text-align: left;
+}
